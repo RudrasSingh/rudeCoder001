@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Eduhive](https://github.com/rudeCoder001/Eduhive-GDSC-2023)
 
-- 🌱 I’m currently learning **Java, Html, CSS, Python, C#, C and DBMS**
+- 🌱 I’m currently learning **Java, Html, CSS, C#, C and DBMS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rudeCoder001](https://github.com/rudeCoder001)
 
