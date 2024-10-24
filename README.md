@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hola 👋, It's Atul Singh</h1>
 <h3 align="center">A Engineering Student From India, Tech Enthusiast and IIC TMSL Tech Team Member</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a6152b12c0ff2c4665466a9fa612bfc21010407d5fceaaa03cfb486a324fe65a/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578633368324f486c6f5a5870774d6a4d345a6e6b7a627a6836635763314d485a73646e68304e3356725a475578626e51344f445a755a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5262444b61637a71576f76497567794a6d572f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudecoder001&label=Profile%20views&color=0e75b6&style=flat" alt="rudecoder001" /> </p>
 
