@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@atul_singh001" target="blank"><img src="https://img.shields.io/twitter/follow/@atul_singh001?logo=twitter&style=for-the-badge" alt="@atul_singh001" /></a> </p>
 
-- 🔭 I’m currently working on [A secret Project and SIH 2024] (https://github.com)
+- 🔭 I’m currently working on A [secret Project](https://github.com) and SIH 2024
 
 - 🌱 I’m currently learning **Java, Html, CSS, C#, C and DBMS**
 
